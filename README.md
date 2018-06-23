@@ -1,8 +1,11 @@
 This repository contains the following files:
 
 README.md - provides a list of files in the repository and describes the R script.
+
 tidydata.txt - contains the tidy data set.
+
 CodeBook.md - describes the variables, the data, and transformations or work performed to clean up the data.
+
 run_analysis.R - the R script that was used to create the data set.
 
 The R script, run_analysis.R, does the following:
